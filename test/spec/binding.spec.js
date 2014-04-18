@@ -1,4 +1,4 @@
-var signals = signals || require('../../dist/signals');
+var signals = SCAYT.signals || signals || require('../../dist/signals');
 
 // --
 

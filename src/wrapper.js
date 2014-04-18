@@ -19,4 +19,4 @@
         global['signals'] = signals;
     }
 
-}(this));
+}(SCAYT));

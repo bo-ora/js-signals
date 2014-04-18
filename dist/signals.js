@@ -5,7 +5,7 @@
  * JS Signals <http://millermedeiros.github.com/js-signals/>
  * Released under the MIT license
  * Author: Miller Medeiros
- * Version: 1.0.0 - Build: 268 (2012/11/29 05:48 PM)
+ * Version: 1.0.0 - Build: 272 (2014/04/17 01:37 PM)
  */
 
 (function(global){
@@ -442,4 +442,4 @@
         global['signals'] = signals;
     }
 
-}(this));
+}(SCAYT));
